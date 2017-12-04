@@ -1,0 +1,11 @@
+ex 1:
+ls var[a-z][a-z] 
+	//trouve les fichiers commençant par var suivi de 2 lettres
+ls *.tar *.gz *.tgz
+	//trouve les fichiers se terminant par .tar .gz .tgz
+ls [0-9]
+	//trouve les fichiers contenant un chiffre
+ls .*
+
+ex 2:
+
